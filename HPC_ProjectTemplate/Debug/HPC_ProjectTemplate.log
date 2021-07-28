@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Fourth\First\HPC\Project\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(82,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Fourth\First\HPC\Project\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(126,35): warning C4101: 'cdfFinal': unreferenced local variable
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> E:\Fourth\First\HPC\Project\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
